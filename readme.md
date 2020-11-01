@@ -12,10 +12,10 @@ My name is Alex Merced and I'm software developer. Currently a full stack develo
 
 ♦ **Languages:** Javascript, Python, Ruby, PHP, GO, Ballerina, Java, Kotlin, Swift, C#, ReasonML, OCAML
 
-♦ **Frontend**: HTML, CSS, Web Components, React, Vue, Angular, Svelete, StencilJS
+♦ **Frontend:** HTML, CSS, Web Components, React, Vue, Angular, Svelete, StencilJS
 
-♦ **Backend**: Express, Koa, Polka, FoalTS, Buffalo, Django, Rails, Laravel, Spring, Serverless Framework
+♦ **Backend:** Express, Koa, Polka, FoalTS, Buffalo, Django, Rails, Laravel, Spring, Serverless Framework
 
-♦ **Database**: Mongo, Postgres, SQLite3
+♦ **Database:** Mongo, Postgres, SQLite3
 
 ♦ **DevOps:** Docker, VPS, CircleCI, jest
